@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\bin\Debug\Test.exe
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\bin\Debug\Test.pdb
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\obj\Debug\Test.exe
+C:\Users\Vendip\Desktop\New folder\Test2\Test\Test\obj\Debug\Test.pdb
